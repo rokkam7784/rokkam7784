@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## About Me 🔭 
+- Member of [Codex](https://github.com/codex-iter)
+- Pursuing BTech in Computer Science👨‍🎓
+
 
 ### Frameworks and Languages
 
