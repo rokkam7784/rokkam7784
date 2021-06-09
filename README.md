@@ -1,26 +1,10 @@
 <p align="center"><samp><b> Hi there! 👋</b></samp></p>
 <p align="center"><h1 align="center"><samp> I am R. Vinayak </samp></h1></p>
-<!--
-**rokkam7784/rokkam7784** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## About Me 🔭 
 - Member of [Codex](https://github.com/codex-iter)
 - Pursuing BTech in Computer Science👨‍🎓
 - Member of Team TRUE
-
-
 
 ### Frameworks and Languages
 
