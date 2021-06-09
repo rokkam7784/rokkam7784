@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 ## About Me 🔭 
 - Member of [Codex](https://github.com/codex-iter)
 - Pursuing BTech in Computer Science👨‍🎓
+- Member of Team TRUE
+
 
 
 ### Frameworks and Languages
