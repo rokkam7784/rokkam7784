@@ -1,5 +1,5 @@
 <p align="center"><samp><b> Hi there! 👋</b></samp></p>
-<p align="center"><h1 align="center"><samp> I am R. Vinayak </samp></h1></p>
+<p align="center"><h1 align="center"><samp>Vinayak here </samp></h1></p>
 
 ## About Me 🔭 
 - Member of [Codex](https://github.com/codex-iter)
