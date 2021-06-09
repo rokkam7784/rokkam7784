@@ -14,7 +14,7 @@
 
 <br>
 
-[![My's github stats](https://github-readme-stats.vercel.app/api?username=rokkam7784&show_icons=truetheme=radical&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![My's github stats](https://github-readme-stats.vercel.app/api?username=rokkam7784&show_icons=truetheme=radical&hide=stars)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=rokkam7784&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/>
