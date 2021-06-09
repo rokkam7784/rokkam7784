@@ -24,5 +24,4 @@
 ### Connect with me:
 
 [<img src="https://raw.githubusercontent.com/iamAbhishekkumar/iamAbhishekkumar/main/assets/linkedin.png" width="40px">](https://www.linkedin.com/in/r-vinayak-30165a1b0/)
-  
 [<img src="https://raw.githubusercontent.com/iamAbhishekkumar/iamAbhishekkumar/main/assets/instagram.png" width="40px">](https://www.instagram.com/vinayak__16rao/)
