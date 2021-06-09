@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<p align="center"><samp><b> Hi there! 👋</b></samp></p>
+<p align="center"><h1 align="center"><samp> I am R. Vinayak </samp></h1></p>
 <!--
 **rokkam7784/rokkam7784** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
